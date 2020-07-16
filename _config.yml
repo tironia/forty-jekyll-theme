@@ -2,7 +2,8 @@
 title: TIRONIA
 # subtitle: by HTML5 UP
 email: asif@tironia.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: We love the Web and the work we do.We work closely with our clients<br />to deliver
+the best possible solutions for their needs.
 baseurl: "/tironia.github.io" # the subpath of your site, e.g. /blog
 url: https://tironia.github.io # the base hostname & protocol for your site
 author:
@@ -35,4 +36,4 @@ markdown: kramdown
 sass:
   style: compressed
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
