@@ -1,7 +1,7 @@
 # site settings
 title: TIRONIA
 # subtitle: by HTML5 UP
-email: asif@tironia.com
+email: info@tironia.com
 description: We love the Web and the work we do.We work closely with our clients<br />to deliver the best possible solutions for their needs.
 baseurl: "/tironia.github.io" # the subpath of your site, e.g. /blog
 url: https://tironia.github.io # the base hostname & protocol for your site
