@@ -6,12 +6,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "/tironia.github.io" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 12 Driver Way
+city: Witham
+state: CM8
+zip_code: 2FY
+country: United KINGDOM
+phone: + (44) (0)75 9421 6922
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
